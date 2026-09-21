@@ -1,4 +1,4 @@
-# OpenJEV — local setup & test scripts
+# OpenJEV - local setup & test scripts
 
 This repo tracks **only the small stuff**: a README and two test scripts for running
 [AlexWortega/openjev](https://huggingface.co/AlexWortega/openjev) locally. It deliberately does
